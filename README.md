@@ -5,13 +5,13 @@ Client/Server application in a local network that allows the client to sign in t
 ***This is a project for networks course in college.***
 
 ----------
-### To download the JAR Files visit this [link](http://projects.kaluaim.com/MiniTwitter/). ###
+### To download the JAR Files visit this [link](http://projects.kalua.im/MiniTwitter/). ###
 
 
 ----------
 ### Server ###
-![Server](http://projects.kaluaim.com/MiniTwitter/server.png)
+![Server](http://projects.kalua.im/MiniTwitter/resources/img/server.png)
 
 ----------
 ### Client ###
-![Client](http://projects.kaluaim.com/MiniTwitter/client.png)
+![Client](http://projects.kalua.im/MiniTwitter/resources/img/client.png)
