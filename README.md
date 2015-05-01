@@ -10,8 +10,8 @@ Client/Server application in a local network that allows the client to sign in t
 
 ----------
 ### Server ###
-![Server](http://projects.kalua.im/MiniTwitter/resources/img/server.png)
+![Server](http://projects.kalua.im/MiniTwitter/assets/images/mini-twitter-server.png)
 
 ----------
 ### Client ###
-![Client](http://projects.kalua.im/MiniTwitter/resources/img/client.png)
+![Client](http://projects.kalua.im/MiniTwitter/assets/images/mini-twitter-client.png)
